@@ -23,3 +23,4 @@ VALUES(1,"Intolerance: Love's Struggle Throughout the Ages",1916,"USA",123,"","N
     (8,"A Farewell to Arms",1932,"USA",79,"English","Unrated","",800000),
     (9,"42nd Street",1933,"USA",89,"English","Unrated",2300000,439000),
     (10,"She Done Him Wrong",1933,"USA",66,"English","Approved","",200000);
+
