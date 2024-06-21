@@ -1,6 +1,3 @@
-CREATE DATABASE films_db;
-USE films_db;
-
 CREATE TABLE films(
     id INTEGER,
     title VARCHAR(255),
